@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba614c3c-50b1-4974-8e4c-3a9f213a0779": {
+      "ProjectGuid": "ba614c3c-50b1-4974-8e4c-3a9f213a0779",
+      "DisplayName": "SRP and DRY principle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

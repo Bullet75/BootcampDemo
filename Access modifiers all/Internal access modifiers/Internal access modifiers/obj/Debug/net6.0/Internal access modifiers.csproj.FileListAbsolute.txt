@@ -1,0 +1,14 @@
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\Internal access modifiers.exe
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\Internal access modifiers.deps.json
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\Internal access modifiers.runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\Internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\ref\Internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\bin\Debug\net6.0\Internal access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\ref\Internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Internal access modifiers\Internal access modifiers\obj\Debug\net6.0\Internal access modifiers.genruntimeconfig.cache

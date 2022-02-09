@@ -1,0 +1,14 @@
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\Polymorhism.exe
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\Polymorhism.deps.json
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\Polymorhism.runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\Polymorhism.dll
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\ref\Polymorhism.dll
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\bin\Debug\net6.0\Polymorhism.pdb
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.dll
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\ref\Polymorhism.dll
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.pdb
+C:\Users\GreeNsWitcH\source\repos\Polymorhism\Polymorhism\obj\Debug\net6.0\Polymorhism.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\Private protected access modifier.exe
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\Private protected access modifier.deps.json
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\Private protected access modifier.runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\Private protected access modifier.dll
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\ref\Private protected access modifier.dll
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\bin\Debug\net6.0\Private protected access modifier.pdb
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.csproj.AssemblyReference.cache
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.dll
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\ref\Private protected access modifier.dll
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.pdb
+C:\Users\GreeNsWitcH\source\repos\Private protected access modifier\Private protected access modifier\obj\Debug\net6.0\Private protected access modifier.genruntimeconfig.cache

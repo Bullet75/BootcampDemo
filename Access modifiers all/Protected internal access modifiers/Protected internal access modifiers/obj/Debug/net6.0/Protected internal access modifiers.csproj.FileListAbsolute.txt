@@ -1,0 +1,14 @@
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\Protected internal access modifiers.exe
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\Protected internal access modifiers.deps.json
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\Protected internal access modifiers.runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\Protected internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\ref\Protected internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\bin\Debug\net6.0\Protected internal access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\ref\Protected internal access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Protected internal access modifiers\Protected internal access modifiers\obj\Debug\net6.0\Protected internal access modifiers.genruntimeconfig.cache

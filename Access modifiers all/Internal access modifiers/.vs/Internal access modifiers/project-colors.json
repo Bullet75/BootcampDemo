@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57c27d30-8b22-4568-ab88-04e9295ab1fe": {
+      "ProjectGuid": "57c27d30-8b22-4568-ab88-04e9295ab1fe",
+      "DisplayName": "Internal access modifiers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

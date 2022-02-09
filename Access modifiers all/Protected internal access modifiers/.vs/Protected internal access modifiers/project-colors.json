@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ee9cb7b-62a5-4fb2-bba1-e6225f08251a": {
+      "ProjectGuid": "2ee9cb7b-62a5-4fb2-bba1-e6225f08251a",
+      "DisplayName": "Protected internal access modifiers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

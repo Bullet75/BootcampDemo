@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP and DRY principle", "SRP and DRY principle\SRP and DRY principle.csproj", "{BA614C3C-50B1-4974-8E4C-3A9F213A0779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA614C3C-50B1-4974-8E4C-3A9F213A0779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA614C3C-50B1-4974-8E4C-3A9F213A0779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA614C3C-50B1-4974-8E4C-3A9F213A0779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA614C3C-50B1-4974-8E4C-3A9F213A0779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D474B31A-4EDB-4C72-A9D3-F9D0047E8E59}
+	EndGlobalSection
+EndGlobal

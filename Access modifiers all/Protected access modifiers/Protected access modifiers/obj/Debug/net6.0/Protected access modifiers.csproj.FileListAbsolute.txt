@@ -1,0 +1,15 @@
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.csproj.AssemblyReference.cache
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\Protected access modifiers.exe
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\Protected access modifiers.deps.json
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\Protected access modifiers.runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\Protected access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\ref\Protected access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\bin\Debug\net6.0\Protected access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\ref\Protected access modifiers.dll
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.pdb
+C:\Users\GreeNsWitcH\source\repos\Protected access modifiers\Protected access modifiers\obj\Debug\net6.0\Protected access modifiers.genruntimeconfig.cache

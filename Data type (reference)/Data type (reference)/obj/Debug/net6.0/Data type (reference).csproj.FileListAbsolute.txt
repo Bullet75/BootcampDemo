@@ -1,0 +1,14 @@
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\Data type (reference).exe
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\Data type (reference).deps.json
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\Data type (reference).runtimeconfig.json
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\Data type (reference).dll
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\ref\Data type (reference).dll
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\bin\Debug\net6.0\Data type (reference).pdb
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).csproj.CoreCompileInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).dll
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\ref\Data type (reference).dll
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).pdb
+C:\Users\GreeNsWitcH\source\repos\Data type (reference)\Data type (reference)\obj\Debug\net6.0\Data type (reference).genruntimeconfig.cache

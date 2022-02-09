@@ -1,0 +1,4 @@
+C:\Users\GreeNsWitcH\source\repos\Private access modifiers\Private access modifiers\obj\Debug\net6.0\Private access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\Private access modifiers\Private access modifiers\obj\Debug\net6.0\Private access modifiers.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\Private access modifiers\Private access modifiers\obj\Debug\net6.0\Private access modifiers.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\Private access modifiers\Private access modifiers\obj\Debug\net6.0\Private access modifiers.csproj.CoreCompileInputs.cache

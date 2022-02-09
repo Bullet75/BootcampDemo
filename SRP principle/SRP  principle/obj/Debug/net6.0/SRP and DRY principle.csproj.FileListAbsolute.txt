@@ -1,0 +1,5 @@
+C:\Users\GreeNsWitcH\source\repos\SRP and DRY principle\SRP and DRY principle\obj\Debug\net6.0\SRP and DRY principle.csproj.AssemblyReference.cache
+C:\Users\GreeNsWitcH\source\repos\SRP and DRY principle\SRP and DRY principle\obj\Debug\net6.0\SRP and DRY principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreeNsWitcH\source\repos\SRP and DRY principle\SRP and DRY principle\obj\Debug\net6.0\SRP and DRY principle.AssemblyInfoInputs.cache
+C:\Users\GreeNsWitcH\source\repos\SRP and DRY principle\SRP and DRY principle\obj\Debug\net6.0\SRP and DRY principle.AssemblyInfo.cs
+C:\Users\GreeNsWitcH\source\repos\SRP and DRY principle\SRP and DRY principle\obj\Debug\net6.0\SRP and DRY principle.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal access modifiers", "Internal access modifiers\Internal access modifiers.csproj", "{57C27D30-8B22-4568-AB88-04E9295AB1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C27D30-8B22-4568-AB88-04E9295AB1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C27D30-8B22-4568-AB88-04E9295AB1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C27D30-8B22-4568-AB88-04E9295AB1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C27D30-8B22-4568-AB88-04E9295AB1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE87703-BCC6-4D4D-8D19-443896293298}
+	EndGlobalSection
+EndGlobal
